@@ -4,7 +4,7 @@ function getFirstSelector(selector) {
 
 function nestedTarget() {
   return document.querySelector('#nested .target');
-   
+
 }
 
 funcion increaseRankBy(n) {
@@ -19,4 +19,3 @@ function deepestChild() {
   return deepest [deepest.length - 1];
 
 }
-
